@@ -1,0 +1,1 @@
+This C program is a simple store billing system that allows users to add product details, view product information, delete item,manage a shopping cart, and generate bills. It's organized into different sections:
