@@ -1,8 +1,8 @@
 This C program is a simple store billing system that allows users:
-<li>
-  <ol>to add product details</ol>
-  <ol>view product information</ol>
-  <ol>delete item</ol>
-  <ol>manage a shopping cart</ol>
-  <ol> generate bills</ol>
-</li>
+<ol>
+  <li>to add product details</li>
+  <li>view product information</li>
+  <li>delete item</li>
+  <li>manage a shopping cart</li>
+  <li> generate bills</li>
+</ol>
